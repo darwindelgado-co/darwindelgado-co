@@ -17,6 +17,5 @@ Critical thinking, decision-making and problem-solving skills. Special experienc
 ## Links
 
 - Blog & portfolio: [darwindelgado.com](https://www.darwindelgado.com)
-- Resume: [darwin_delgado_resumen_es.pdf](https://www.darwindelgado.com/darwin_delgado_resumen_es.pdf)
 - LinkedIn: [linkedin.com/in/dwsdelgado](https://www.linkedin.com/in/dwsdelgado)
 - Email: dsdelgadomo[at]gmail[dot]com
