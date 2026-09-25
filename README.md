@@ -1,21 +1,21 @@
 # Darwin Delgado
 
-Infrastructure Engineer based in Cali, Colombia.
+Infrastructure Engineer, radicado en Cali, Colombia.
 
-Critical thinking, decision-making and problem-solving skills. Special experience in critical banking infrastructure: hybrid cloud (AWS, Azure) and on-premise.
+Pensamiento crítico, toma de decisiones y resolución de problemas. Experiencia especial en infraestructura crítica bancaria: nube híbrida (AWS, Azure) y on-premise.
 
 ## Skills
 
-- **Linux:** RHEL specialist.
-- **AWS:** EC2 · VPC · IAM · IAM Identity Center · S3 · ALB · Auto Scaling · RDS · SSM (Patch Manager).
-- **Azure:** VMs · VNet · NSG · Firewall · VPN (Local Network Gateway).
-- **Containers:** Docker · Kubernetes · ECS · ECR.
-- **Automation:** Ansible · Bash · Terraform.
+- **Linux:** especialista en RHEL.
+- **Cloud AWS:** EC2 · VPC · IAM · IAM Identity Center · S3 · ALB · Auto Scaling · RDS · SSM (Patch Manager).
+- **Cloud Azure:** VMs · VNet · NSG · Firewall · VPN (Local Network Gateway).
+- **Contenedores:** Docker · Kubernetes · ECS · ECR.
+- **Automatización:** Ansible · Bash · Terraform.
 - **CI/CD:** GitHub Actions · Azure DevOps.
-- **Observability:** Zabbix · Prometheus · Grafana · CloudWatch.
+- **Monitoreo:** Zabbix · Prometheus · Grafana · CloudWatch.
 
-## Links
+## Enlaces
 
-- Blog & portfolio: [darwindelgado.com](https://www.darwindelgado.com)
+- Blog y portafolio: [darwindelgado.com](https://www.darwindelgado.com)
 - LinkedIn: [linkedin.com/in/dwsdelgado](https://www.linkedin.com/in/dwsdelgado)
 - Email: dsdelgadomo[at]gmail[dot]com
